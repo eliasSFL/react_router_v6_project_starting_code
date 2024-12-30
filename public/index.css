@@ -131,7 +131,7 @@ body {
 
 * {
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 .pet h3 {
@@ -193,6 +193,7 @@ body {
   border-radius: 30px;
   padding: 8px 16px;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .actions-container {
